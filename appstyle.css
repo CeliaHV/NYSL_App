@@ -1,0 +1,199 @@
+body {
+    background-color: #173784;
+}
+
+#buttons {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.button {
+    background: lightyellow;
+    font-family: bold 100% "trebuchet ms";
+    margin-top: 20px;
+    margin-left: 28%;
+    padding: 4px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: 6px #BBCE29 outset;
+    width: 160px; height: 80px;
+    font-size: 25px;
+}
+
+#logo {
+    margin-top: 8%;
+    margin-left: 35%;
+    width: 115px; height: 115px;
+}
+
+#back {
+    width: 65px; height: 65px;
+    margin-top: 15%;
+    
+}
+
+#smallLogo {
+    margin-top: -25%;
+    margin-left: 34%;
+    width: 135px; height: 135px;
+    float: none;
+}
+
+#tittle {
+    background: lightyellow;
+    font-family: bold 100% "trebuchet ms";
+    font-size: 45px;
+    text-align: center;
+    padding: 9px;
+    border: 10px #BBCE29 groove;
+    margin-bottom: 20px;
+}
+
+#subtitle {
+    text-align: center;
+    font-size: 40px;
+    color: #BBCE29;
+    margin-bottom: 20px;
+}
+
+.month {
+    background: yellowgreen;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+    padding: 9px;
+    border: 10px yellowgreen outset;
+    margin-bottom: 20px;
+}
+
+.must {
+    width: inherit; 
+    padding: 0 10px; 
+    border-bottom: none;
+    border: 5px groove #ddd;
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 30px;
+}
+
+#please {
+    font-size: 26px;
+    color: lightgoldenrodyellow;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+
+#michael {
+    font-size: 26px;
+    color: skyblue;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+#sepTitle {
+    background: #DAFD9B;
+    font-family: bold 100% "trebuchet ms";
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    border: 10px white groove;
+    margin-bottom: 7%;
+    margin-top: 20px;
+}
+
+.versus {
+    font-size: 200%;
+    text-align: left;
+    margin-left: 5%;
+}
+
+.futbolLogos {
+    float: none;
+    width: 15%; height: 15%;
+    margin-bottom: 8%;
+}
+
+#moredetails1, #moredetails2, #moredetails3, #moredetails4, #moredetails5 {
+    width: 43%; height: 30%;
+    float: right;
+}
+
+.hour {
+    text-align: center;
+    font-size: 390%;
+    color: #BBCE29;
+    margin-top: -30px;
+}
+
+.teams {
+    text-align: center;
+    color: burlywood;;
+    margin-top: -5%;
+    font-size: 390%;
+}
+
+.donde {
+    background: #DAFD9B;
+    text-align: center;
+    font-size: 300%;
+    color: black;
+    padding: 2px;
+}
+
+.school {
+    text-align: center;
+    font-size: 370%;
+    color: #BBCE29;
+}
+
+.address {
+    text-align: center;
+    font-size: 250%;
+    color: burlywood;
+    margin-top: -10px;
+}
+
+.barrahorizontal {
+    background: green;
+    padding: 4px;
+    margin-top: 5%;
+    margin-bottom: 11%;
+}
+
+#form {
+    text-align: center;
+    font-size: 190%;
+    color: cornflowerblue;
+    margin-bottom: 40px;
+}
+
+#accorTitle, #accorTitle1, #accorTitle2 {
+    font-size: 160%;
+}
+
+#accordions {
+    font-size: 150%;
+}
+
+#kids {
+    width: 100%; height: 100%;
+    border-radius: 40px 40px 40px 40px;
+    margin-bottom: 5%;
+}
+
+.contacText {
+    text-align: center;
+    font-size: 280%;
+    color: #BBCE29;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+#mailIcon {
+    display:block; margin:auto;
+    width: 50%; height: 50%;
+}
